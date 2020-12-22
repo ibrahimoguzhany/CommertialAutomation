@@ -10,4 +10,4 @@ Project is build upon CodeFirst EF.6x
 #### -Type ```update-database``` then press enter. (Migrations are activated in the projects if a problem occurs. Type 
   ```enable-migrations -enableautomaticmigration -force```
   before ```update-database``` command
-#### Your Database should be setted up in Mssql. View some of the pages in Views by right clicking a view then clicking View in Browser.
+##### Your Database should be setted up in Mssql. View some of the pages in Views by right clicking a view then clicking ```View in Browser``` .
