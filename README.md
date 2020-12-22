@@ -1,6 +1,9 @@
 # E-CommerseAutomation
-Asp.net MVC application for a company to manage stocks and control changes.E-Commerse module is on the way!
-Project is build upon CodeFirst EF.6x
+Asp.net MVC application app to get things done for your commpany. E-Commerse module is on the way!
+#### Stack
+ ##### -CodeFirst EF.6x ORM
+ ##### -MSSQL 
+ ##### -ASP.NET MVC pattern
 
 ## Configurations  
 #### -Open the project with VS. Then open Web.config File.
