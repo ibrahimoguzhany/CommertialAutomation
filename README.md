@@ -1,8 +1,8 @@
 # E-CommerseAutomation
 Asp.net MVC application app to get things done for your commpany. E-Commerse module is on the way!
 #### Stack
- ##### -CodeFirst EF.6x ORM
- ##### -MSSQL 
+ ##### ORM: -CodeFirst EF.6x 
+ ##### DB:-MSSQL 
  ##### -ASP.NET MVC pattern
 
 ## Configurations  
@@ -13,4 +13,4 @@ Asp.net MVC application app to get things done for your commpany. E-Commerse mod
 #### -Type ```update-database``` then press enter. (Migrations are activated in the project by default but if a problem occurs. Type 
   ```enable-migrations -enableautomaticmigration -force```
   before ```update-database``` command
-##### Your Database should be setted up in Mssql. View some of the pages in Views by right clicking a view then clicking ```View in Browser``` .
+##### Your Database should be set up in Mssql. View some of the pages in Views by right clicking a view then clicking ```View in Browser``` .
