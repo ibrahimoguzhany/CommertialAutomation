@@ -1,9 +1,6 @@
 # E-CommerseAutomation
-Asp.net MVC application app to get things done for your commpany. E-Commerse module is on the way!
-#### Stack
- ##### ORM: -CodeFirst EF.6x 
- ##### DB:-MSSQL 
- ##### -ASP.NET MVC pattern
+Code First Asp.net MVC application app for multiple purposes. 
+
 
 ## Configurations  
 #### -Open the project with VS. Then open Web.config File.
